@@ -1,0 +1,15 @@
+{
+  "name": "@pepperkick/routegen-auth-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PepperKick",
+  "license": "ISC",
+  "dependencies": {
+    "http-errors": "^1.7.1",
+    "passport-local": "^1.0.0"
+  }
+}
